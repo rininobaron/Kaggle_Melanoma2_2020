@@ -1,0 +1,1041 @@
+image_name,patient_id,sex,age_approx,anatom_site_general_challenge,diagnosis,benign_malignant,target
+ISIC_1461419,IP_3689742,male,60.0,lower extremity,unknown,benign,0
+ISIC_1830017,IP_5889408,female,45.0,upper extremity,unknown,benign,0
+ISIC_0913811,IP_1989404,male,30.0,torso,nevus,benign,0
+ISIC_2458253,IP_5461043,male,15.0,lower extremity,unknown,benign,0
+ISIC_7067677,IP_3349523,female,65.0,torso,nevus,benign,0
+ISIC_1506285,IP_2932439,female,45.0,torso,nevus,benign,0
+ISIC_9161898,IP_5528290,male,50.0,torso,unknown,benign,0
+ISIC_3157835,IP_9122609,male,65.0,torso,unknown,benign,0
+ISIC_8618266,IP_7021484,male,60.0,head/neck,unknown,benign,0
+ISIC_9963177,IP_1165806,male,70.0,torso,melanoma,malignant,1
+ISIC_5046055,IP_1109756,male,70.0,head/neck,unknown,benign,0
+ISIC_7112749,IP_9558959,male,45.0,torso,unknown,benign,0
+ISIC_6162545,IP_0550778,male,50.0,lower extremity,nevus,benign,0
+ISIC_4922965,IP_1907825,male,55.0,torso,unknown,benign,0
+ISIC_5459056,IP_1242490,male,45.0,upper extremity,unknown,benign,0
+ISIC_2979268,IP_3240837,male,50.0,torso,melanoma,malignant,1
+ISIC_0567814,IP_3947094,male,50.0,lower extremity,unknown,benign,0
+ISIC_4682438,IP_0248387,female,65.0,lower extremity,unknown,benign,0
+ISIC_1918077,IP_8988837,male,45.0,upper extremity,unknown,benign,0
+ISIC_4461785,IP_8019632,female,60.0,upper extremity,unknown,benign,0
+ISIC_9437584,IP_2479386,female,40.0,lower extremity,unknown,benign,0
+ISIC_1196284,IP_2661172,female,45.0,upper extremity,unknown,benign,0
+ISIC_7845733,IP_4897162,female,40.0,torso,unknown,benign,0
+ISIC_0940521,IP_0135517,female,50.0,upper extremity,unknown,benign,0
+ISIC_5485524,IP_4871455,male,75.0,upper extremity,nevus,benign,0
+ISIC_2832595,IP_3025705,female,30.0,torso,unknown,benign,0
+ISIC_9268487,IP_9820186,male,75.0,torso,melanoma,malignant,1
+ISIC_2776906,IP_6128767,male,70.0,torso,melanoma,malignant,1
+ISIC_1284089,IP_9272657,male,55.0,torso,nevus,benign,0
+ISIC_5869480,IP_8829018,male,45.0,torso,melanoma,malignant,1
+ISIC_8737794,IP_6533286,male,80.0,torso,melanoma,malignant,1
+ISIC_4193775,IP_5037503,male,50.0,torso,nevus,benign,0
+ISIC_2830650,IP_3637671,male,85.0,lower extremity,unknown,benign,0
+ISIC_7757473,IP_8173459,female,50.0,torso,unknown,benign,0
+ISIC_7173520,IP_0825081,male,80.0,upper extremity,unknown,benign,0
+ISIC_4596182,IP_6029629,female,50.0,lower extremity,unknown,benign,0
+ISIC_7546219,IP_6613083,female,80.0,upper extremity,melanoma,malignant,1
+ISIC_1620401,IP_2881084,female,65.0,lower extremity,melanoma,malignant,1
+ISIC_2706427,IP_7111848,male,50.0,torso,unknown,benign,0
+ISIC_9571842,IP_6349217,female,60.0,head/neck,melanoma,malignant,1
+ISIC_1755832,IP_4936463,female,70.0,lower extremity,unknown,benign,0
+ISIC_4714617,IP_1009595,male,40.0,torso,nevus,benign,0
+ISIC_4967564,IP_2986217,male,75.0,upper extremity,melanoma,malignant,1
+ISIC_6162663,IP_4983809,male,70.0,upper extremity,unknown,benign,0
+ISIC_4528136,IP_7123023,male,30.0,torso,nevus,benign,0
+ISIC_0196399,IP_9054996,male,60.0,head/neck,unknown,benign,0
+ISIC_5436811,IP_8330575,male,40.0,torso,unknown,benign,0
+ISIC_4524900,IP_9936643,male,75.0,torso,unknown,benign,0
+ISIC_9537698,IP_0859301,female,50.0,torso,unknown,benign,0
+ISIC_7312977,IP_8675890,male,55.0,lower extremity,melanoma,malignant,1
+ISIC_1109667,IP_2049351,male,40.0,lower extremity,nevus,benign,0
+ISIC_4439054,IP_0825081,male,80.0,torso,melanoma,malignant,1
+ISIC_4676270,IP_7460121,female,55.0,torso,melanoma,malignant,1
+ISIC_9556334,IP_6529005,male,50.0,upper extremity,melanoma,malignant,1
+ISIC_2685593,IP_6643545,male,75.0,torso,melanoma,malignant,1
+ISIC_3435596,IP_9746668,female,85.0,torso,melanoma,malignant,1
+ISIC_8167374,IP_8361815,male,80.0,torso,melanoma,malignant,1
+ISIC_2673608,IP_4122224,female,55.0,torso,unknown,benign,0
+ISIC_0444603,IP_3573146,female,35.0,torso,unknown,benign,0
+ISIC_8497457,IP_2005898,female,70.0,torso,melanoma,malignant,1
+ISIC_1881268,IP_3609743,male,20.0,torso,unknown,benign,0
+ISIC_1530981,IP_9348731,female,45.0,torso,nevus,benign,0
+ISIC_9741917,IP_0621614,male,40.0,torso,unknown,benign,0
+ISIC_2915747,IP_8235556,female,35.0,lower extremity,unknown,benign,0
+ISIC_2364150,IP_7100012,female,70.0,upper extremity,melanoma,malignant,1
+ISIC_0370008,IP_9765850,male,30.0,torso,unknown,benign,0
+ISIC_3725295,IP_6017204,female,35.0,torso,unknown,benign,0
+ISIC_8866651,IP_8375879,male,75.0,torso,melanoma,malignant,1
+ISIC_2347821,IP_7984337,male,55.0,torso,unknown,benign,0
+ISIC_2967140,IP_0414408,male,50.0,head/neck,unknown,benign,0
+ISIC_4315770,IP_6272363,female,25.0,torso,unknown,benign,0
+ISIC_7515318,IP_6332843,male,25.0,upper extremity,unknown,benign,0
+ISIC_7927525,IP_8313778,male,50.0,upper extremity,melanoma,malignant,1
+ISIC_2584165,IP_6931421,male,30.0,torso,nevus,benign,0
+ISIC_7973598,IP_8124898,male,35.0,torso,melanoma,malignant,1
+ISIC_1147733,IP_5865682,female,55.0,torso,unknown,benign,0
+ISIC_1658623,IP_1251610,male,35.0,upper extremity,nevus,benign,0
+ISIC_8035537,IP_6331798,female,25.0,torso,unknown,benign,0
+ISIC_8086526,IP_6503995,female,60.0,torso,unknown,benign,0
+ISIC_7056760,IP_6997528,female,35.0,torso,unknown,benign,0
+ISIC_7948290,IP_5474292,male,40.0,upper extremity,melanoma,malignant,1
+ISIC_7129134,IP_3561719,male,70.0,lower extremity,unknown,benign,0
+ISIC_6713432,IP_8734172,male,45.0,torso,melanoma,malignant,1
+ISIC_2621493,IP_8224538,male,55.0,head/neck,unknown,benign,0
+ISIC_1952749,IP_5496892,male,55.0,upper extremity,melanoma,malignant,1
+ISIC_7358293,IP_9663529,female,80.0,lower extremity,solar lentigo,benign,0
+ISIC_9764868,IP_8051701,female,65.0,lower extremity,unknown,benign,0
+ISIC_1216381,IP_6323321,male,35.0,torso,nevus,benign,0
+ISIC_6107184,IP_7271570,female,40.0,lower extremity,nevus,benign,0
+ISIC_8240552,IP_8210115,male,55.0,torso,unknown,benign,0
+ISIC_0680599,IP_0776416,female,30.0,upper extremity,unknown,benign,0
+ISIC_5137933,IP_3419097,female,65.0,head/neck,melanoma,malignant,1
+ISIC_7611850,IP_8051701,female,65.0,torso,nevus,benign,0
+ISIC_1350519,IP_6245507,male,45.0,upper extremity,unknown,benign,0
+ISIC_3073605,IP_6631780,female,50.0,,nevus,benign,0
+ISIC_7012349,IP_9595383,male,45.0,upper extremity,unknown,benign,0
+ISIC_3517311,IP_4436071,female,70.0,upper extremity,melanoma,malignant,1
+ISIC_6841294,IP_2352610,male,65.0,torso,melanoma,malignant,1
+ISIC_8480329,IP_9679829,male,30.0,torso,unknown,benign,0
+ISIC_6581765,IP_9362467,female,45.0,torso,unknown,benign,0
+ISIC_6274020,IP_9736783,male,90.0,torso,unknown,benign,0
+ISIC_9983696,IP_5872065,male,50.0,lower extremity,unknown,benign,0
+ISIC_8846817,IP_0243839,male,50.0,upper extremity,nevus,benign,0
+ISIC_0504165,IP_3675183,female,60.0,lower extremity,melanoma,malignant,1
+ISIC_6618851,IP_9316325,male,60.0,upper extremity,unknown,benign,0
+ISIC_0914168,IP_3659172,female,50.0,torso,melanoma,malignant,1
+ISIC_0584464,IP_5577320,female,50.0,torso,unknown,benign,0
+ISIC_1872823,IP_6567258,male,45.0,torso,unknown,benign,0
+ISIC_4000481,IP_7770500,male,60.0,upper extremity,melanoma,malignant,1
+ISIC_5893001,IP_9346829,female,60.0,upper extremity,unknown,benign,0
+ISIC_8486138,IP_7842431,male,40.0,torso,unknown,benign,0
+ISIC_4595555,IP_0036322,male,65.0,torso,nevus,benign,0
+ISIC_8908028,IP_0063782,female,50.0,lower extremity,unknown,benign,0
+ISIC_8545182,IP_8716491,male,60.0,upper extremity,unknown,benign,0
+ISIC_4313352,IP_4050705,female,40.0,torso,unknown,benign,0
+ISIC_6675773,IP_4572846,male,65.0,torso,unknown,benign,0
+ISIC_6477810,IP_4938349,male,70.0,torso,unknown,benign,0
+ISIC_8127242,IP_2014901,female,70.0,head/neck,unknown,benign,0
+ISIC_5868835,IP_8872677,male,50.0,torso,nevus,benign,0
+ISIC_3593384,IP_7330399,female,55.0,torso,unknown,benign,0
+ISIC_7063467,IP_5528290,male,50.0,torso,unknown,benign,0
+ISIC_5476174,IP_2285751,female,45.0,torso,nevus,benign,0
+ISIC_7244873,IP_4204657,female,45.0,lower extremity,unknown,benign,0
+ISIC_8127396,IP_7123023,male,30.0,torso,unknown,benign,0
+ISIC_0765973,IP_7836372,male,65.0,upper extremity,unknown,benign,0
+ISIC_8785329,IP_9346829,female,60.0,upper extremity,unknown,benign,0
+ISIC_2200197,IP_0915233,male,65.0,torso,melanoma,malignant,1
+ISIC_6313487,IP_6387073,male,70.0,torso,melanoma,malignant,1
+ISIC_6183124,IP_2675593,female,55.0,torso,nevus,benign,0
+ISIC_3816423,IP_3986523,male,40.0,upper extremity,unknown,benign,0
+ISIC_9585329,IP_9802602,male,55.0,head/neck,melanoma,malignant,1
+ISIC_8211993,IP_2962626,female,40.0,upper extremity,unknown,benign,0
+ISIC_5119380,IP_3315536,female,50.0,torso,unknown,benign,0
+ISIC_5495413,IP_8666570,male,45.0,torso,melanoma,malignant,1
+ISIC_6928442,IP_6617725,female,35.0,torso,nevus,benign,0
+ISIC_4884189,IP_3253955,female,55.0,torso,unknown,benign,0
+ISIC_2642187,IP_2452694,male,40.0,torso,seborrheic keratosis,benign,0
+ISIC_1266695,IP_5111235,male,40.0,upper extremity,unknown,benign,0
+ISIC_1460932,IP_4639224,male,55.0,lower extremity,melanoma,malignant,1
+ISIC_3908965,IP_3854976,female,45.0,torso,unknown,benign,0
+ISIC_5547677,IP_0423670,male,50.0,torso,nevus,benign,0
+ISIC_3295538,IP_2114130,male,40.0,torso,unknown,benign,0
+ISIC_7080584,IP_5724756,female,55.0,lower extremity,nevus,benign,0
+ISIC_0861066,IP_2871134,male,60.0,head/neck,unknown,benign,0
+ISIC_5891384,IP_8326844,female,55.0,upper extremity,melanoma,malignant,1
+ISIC_3844080,IP_4030464,female,60.0,torso,unknown,benign,0
+ISIC_6484241,IP_9162256,female,55.0,lower extremity,unknown,benign,0
+ISIC_1009042,IP_9954107,male,70.0,torso,melanoma,malignant,1
+ISIC_7008335,IP_3653630,female,55.0,torso,nevus,benign,0
+ISIC_6530659,IP_6796539,female,30.0,lower extremity,unknown,benign,0
+ISIC_8439858,IP_7688774,female,25.0,upper extremity,unknown,benign,0
+ISIC_6639094,IP_3624052,female,50.0,lower extremity,unknown,benign,0
+ISIC_9513932,IP_7404937,male,60.0,torso,unknown,benign,0
+ISIC_4276255,IP_4370559,male,25.0,torso,melanoma,malignant,1
+ISIC_7761308,IP_9463965,female,30.0,torso,unknown,benign,0
+ISIC_2203163,IP_6601134,female,55.0,torso,unknown,benign,0
+ISIC_3091549,IP_9245079,male,40.0,torso,unknown,benign,0
+ISIC_7489564,IP_9037179,male,70.0,torso,melanoma,malignant,1
+ISIC_5490673,IP_2661172,female,45.0,torso,unknown,benign,0
+ISIC_7504553,IP_3522576,male,45.0,upper extremity,unknown,benign,0
+ISIC_4745004,IP_7518373,female,55.0,torso,nevus,benign,0
+ISIC_8479278,IP_6342369,female,35.0,torso,unknown,benign,0
+ISIC_8011058,IP_3662918,female,30.0,lower extremity,melanoma,malignant,1
+ISIC_7168122,IP_3400640,female,45.0,upper extremity,unknown,benign,0
+ISIC_4544879,IP_0418246,female,50.0,torso,unknown,benign,0
+ISIC_0275828,IP_7252102,male,30.0,lower extremity,melanoma,malignant,1
+ISIC_3995597,IP_9612942,female,45.0,upper extremity,unknown,benign,0
+ISIC_9579703,IP_0657134,male,50.0,torso,melanoma,malignant,1
+ISIC_6283328,IP_3489420,male,50.0,torso,unknown,benign,0
+ISIC_4085644,IP_4294672,female,60.0,torso,nevus,benign,0
+ISIC_9560483,IP_2170331,female,55.0,torso,nevus,benign,0
+ISIC_2182856,IP_4762742,female,50.0,upper extremity,melanoma,malignant,1
+ISIC_3963183,IP_2455242,female,55.0,upper extremity,melanoma,malignant,1
+ISIC_5602826,IP_7644786,female,60.0,upper extremity,melanoma,malignant,1
+ISIC_9640145,IP_8296470,female,55.0,torso,unknown,benign,0
+ISIC_8437493,IP_5874995,male,50.0,torso,melanoma,malignant,1
+ISIC_4349724,IP_0615694,female,50.0,upper extremity,unknown,benign,0
+ISIC_3996796,IP_2412574,male,70.0,torso,melanoma,malignant,1
+ISIC_1081635,IP_8173459,female,50.0,lower extremity,unknown,benign,0
+ISIC_2478860,IP_3444084,male,40.0,torso,unknown,benign,0
+ISIC_3338629,IP_8210115,male,55.0,head/neck,melanoma,malignant,1
+ISIC_0542222,IP_9284916,male,50.0,lower extremity,nevus,benign,0
+ISIC_2683083,IP_6820518,female,40.0,upper extremity,nevus,benign,0
+ISIC_1990520,IP_0059113,female,75.0,palms/soles,unknown,benign,0
+ISIC_1330008,IP_9373614,female,45.0,lower extremity,melanoma,malignant,1
+ISIC_2733902,IP_9544996,female,35.0,lower extremity,unknown,benign,0
+ISIC_7948999,IP_4009777,male,70.0,upper extremity,unknown,benign,0
+ISIC_6385793,IP_5533537,female,50.0,lower extremity,unknown,benign,0
+ISIC_3518444,IP_9370254,male,55.0,torso,unknown,benign,0
+ISIC_2514227,IP_8233849,male,55.0,torso,unknown,benign,0
+ISIC_9193127,IP_7147862,male,45.0,head/neck,melanoma,malignant,1
+ISIC_1986371,IP_8029095,female,45.0,torso,unknown,benign,0
+ISIC_5830274,IP_7261254,female,20.0,upper extremity,unknown,benign,0
+ISIC_2418389,IP_3782995,female,25.0,torso,unknown,benign,0
+ISIC_6863391,IP_4179834,female,35.0,torso,unknown,benign,0
+ISIC_1223849,IP_4938349,male,70.0,torso,unknown,benign,0
+ISIC_1866770,IP_7517320,male,60.0,upper extremity,melanoma,malignant,1
+ISIC_7421856,IP_6658881,male,80.0,lower extremity,unknown,benign,0
+ISIC_0811783,IP_0175414,male,60.0,lower extremity,unknown,benign,0
+ISIC_4127690,IP_3561719,male,70.0,upper extremity,unknown,benign,0
+ISIC_5386105,IP_1709095,male,55.0,torso,nevus,benign,0
+ISIC_6341685,IP_4017726,female,50.0,torso,unknown,benign,0
+ISIC_7939816,IP_6234053,male,75.0,torso,melanoma,malignant,1
+ISIC_7844825,IP_3531667,male,55.0,torso,melanoma,malignant,1
+ISIC_7668953,IP_9122609,male,65.0,torso,unknown,benign,0
+ISIC_2933799,IP_9961030,male,70.0,torso,unknown,benign,0
+ISIC_3093026,IP_9751397,female,35.0,lower extremity,melanoma,malignant,1
+ISIC_9001948,IP_9909432,male,50.0,torso,melanoma,malignant,1
+ISIC_4694634,IP_6292705,male,55.0,torso,unknown,benign,0
+ISIC_8032758,IP_1582457,male,50.0,,unknown,benign,0
+ISIC_5264236,IP_1066187,male,70.0,head/neck,unknown,benign,0
+ISIC_3416107,IP_3335629,male,60.0,lower extremity,melanoma,malignant,1
+ISIC_2730501,IP_5331792,male,55.0,torso,unknown,benign,0
+ISIC_1158816,IP_0408346,male,65.0,torso,unknown,benign,0
+ISIC_9077722,IP_3200260,female,30.0,torso,unknown,benign,0
+ISIC_7680948,IP_7100012,female,70.0,upper extremity,melanoma,malignant,1
+ISIC_6744962,IP_9328721,female,60.0,torso,unknown,benign,0
+ISIC_2513343,IP_2010919,female,50.0,lower extremity,unknown,benign,0
+ISIC_6584847,IP_4557152,female,60.0,lower extremity,unknown,benign,0
+ISIC_3446357,IP_2101945,male,65.0,upper extremity,melanoma,malignant,1
+ISIC_8792007,IP_2107539,male,50.0,torso,unknown,benign,0
+ISIC_7127269,IP_5945442,female,30.0,torso,unknown,benign,0
+ISIC_9900191,IP_6459335,male,60.0,torso,melanoma,malignant,1
+ISIC_3023048,IP_3523452,female,20.0,head/neck,unknown,benign,0
+ISIC_2967024,IP_6074542,male,70.0,torso,melanoma,malignant,1
+ISIC_3303961,IP_3620175,female,60.0,upper extremity,unknown,benign,0
+ISIC_7578042,IP_5986216,male,50.0,torso,unknown,benign,0
+ISIC_9886866,IP_3620175,female,60.0,torso,unknown,benign,0
+ISIC_9996662,IP_0989858,female,30.0,torso,unknown,benign,0
+ISIC_5107655,IP_2613684,male,50.0,lower extremity,unknown,benign,0
+ISIC_2242628,IP_2008749,male,40.0,torso,unknown,benign,0
+ISIC_3440178,IP_9802994,female,40.0,upper extremity,unknown,benign,0
+ISIC_4938994,IP_5296780,male,55.0,upper extremity,melanoma,malignant,1
+ISIC_7650369,IP_1495267,female,75.0,torso,unknown,benign,0
+ISIC_2984214,IP_1355796,male,60.0,torso,nevus,benign,0
+ISIC_5361965,IP_5889408,female,45.0,torso,unknown,benign,0
+ISIC_1177505,IP_1495267,female,75.0,head/neck,melanoma,malignant,1
+ISIC_9053910,IP_5336201,male,80.0,torso,melanoma,malignant,1
+ISIC_8821260,IP_8135032,male,75.0,torso,unknown,benign,0
+ISIC_8909545,IP_2026598,male,20.0,lower extremity,unknown,benign,0
+ISIC_0950828,IP_2310783,male,50.0,lower extremity,nevus,benign,0
+ISIC_0309317,IP_1636784,female,40.0,head/neck,unknown,benign,0
+ISIC_2351999,IP_1665515,male,80.0,head/neck,melanoma,malignant,1
+ISIC_8147542,IP_8631184,female,65.0,torso,unknown,benign,0
+ISIC_1952298,IP_1583136,female,65.0,lower extremity,unknown,benign,0
+ISIC_3720748,IP_3868067,male,45.0,torso,unknown,benign,0
+ISIC_9004374,IP_5328472,male,65.0,torso,unknown,benign,0
+ISIC_5736346,IP_2213065,female,60.0,head/neck,unknown,benign,0
+ISIC_7161069,IP_1645936,female,65.0,lower extremity,unknown,benign,0
+ISIC_6641378,IP_1657504,female,55.0,lower extremity,unknown,benign,0
+ISIC_6007546,IP_9001826,female,30.0,torso,unknown,benign,0
+ISIC_2853981,IP_0500536,male,50.0,torso,nevus,benign,0
+ISIC_2153401,IP_9156695,female,40.0,lower extremity,melanoma,malignant,1
+ISIC_2871230,IP_9952683,male,70.0,lower extremity,melanoma,malignant,1
+ISIC_5185580,IP_9954107,male,65.0,head/neck,nevus,benign,0
+ISIC_6000115,IP_6318212,female,60.0,torso,unknown,benign,0
+ISIC_5629697,IP_8937782,male,40.0,lower extremity,nevus,benign,0
+ISIC_1740983,IP_0414408,male,50.0,torso,unknown,benign,0
+ISIC_6620377,IP_3523549,male,25.0,lower extremity,melanoma,malignant,1
+ISIC_4728756,IP_0046310,male,45.0,torso,nevus,benign,0
+ISIC_5823292,IP_9188370,female,50.0,torso,unknown,benign,0
+ISIC_2331656,IP_1153670,male,45.0,torso,unknown,benign,0
+ISIC_4884879,IP_0418246,female,50.0,upper extremity,unknown,benign,0
+ISIC_3919589,IP_4234031,female,40.0,torso,unknown,benign,0
+ISIC_8907769,IP_0646610,male,45.0,torso,unknown,benign,0
+ISIC_3734674,IP_9463965,female,30.0,torso,unknown,benign,0
+ISIC_4851366,IP_7141746,male,75.0,torso,melanoma,malignant,1
+ISIC_2011893,IP_9054996,male,60.0,lower extremity,unknown,benign,0
+ISIC_6385296,IP_3739659,female,50.0,upper extremity,unknown,benign,0
+ISIC_1684948,IP_7147862,male,45.0,torso,nevus,benign,0
+ISIC_8567199,IP_7021484,male,60.0,head/neck,unknown,benign,0
+ISIC_8096177,IP_7690396,female,40.0,torso,unknown,benign,0
+ISIC_5747942,IP_6118207,male,45.0,upper extremity,melanoma,malignant,1
+ISIC_4523238,IP_3739659,female,60.0,torso,melanoma,malignant,1
+ISIC_7759630,IP_5724756,female,50.0,torso,nevus,benign,0
+ISIC_2098331,IP_6332843,male,40.0,lower extremity,unknown,benign,0
+ISIC_0940070,IP_0776416,female,30.0,lower extremity,unknown,benign,0
+ISIC_3548096,IP_9853347,male,55.0,torso,unknown,benign,0
+ISIC_9629757,IP_0968880,male,60.0,torso,unknown,benign,0
+ISIC_5533992,IP_3752129,male,45.0,lower extremity,melanoma,malignant,1
+ISIC_3528509,IP_5176431,male,65.0,lower extremity,nevus,benign,0
+ISIC_5045600,IP_7005083,female,60.0,head/neck,melanoma,malignant,1
+ISIC_1464284,IP_0843629,male,45.0,torso,unknown,benign,0
+ISIC_6512037,IP_7145044,female,60.0,upper extremity,nevus,benign,0
+ISIC_4425322,IP_5906964,female,65.0,lower extremity,melanoma,malignant,1
+ISIC_3084312,IP_3076695,female,75.0,lower extremity,melanoma,malignant,1
+ISIC_5006020,IP_9679829,male,30.0,torso,unknown,benign,0
+ISIC_8127642,IP_8247808,female,35.0,torso,unknown,benign,0
+ISIC_9867744,IP_6658881,male,80.0,head/neck,unknown,benign,0
+ISIC_0528044,IP_7666205,male,65.0,torso,melanoma,malignant,1
+ISIC_7706503,IP_6510081,female,45.0,torso,nevus,benign,0
+ISIC_5982769,IP_7842431,male,40.0,lower extremity,unknown,benign,0
+ISIC_8146574,IP_4548568,male,40.0,lower extremity,unknown,benign,0
+ISIC_1698942,IP_2986217,male,75.0,torso,melanoma,malignant,1
+ISIC_0961235,IP_8592890,female,45.0,torso,melanoma,malignant,1
+ISIC_1037315,IP_0623861,male,60.0,lower extremity,melanoma,malignant,1
+ISIC_3167799,IP_6405528,female,60.0,torso,unknown,benign,0
+ISIC_9685931,IP_0733805,female,45.0,upper extremity,melanoma,malignant,1
+ISIC_2344225,IP_3675183,female,60.0,head/neck,unknown,benign,0
+ISIC_8002875,IP_6833889,male,55.0,head/neck,melanoma,malignant,1
+ISIC_0647224,IP_5064161,male,30.0,lower extremity,melanoma,malignant,1
+ISIC_7601364,IP_6795979,female,45.0,torso,unknown,benign,0
+ISIC_8882374,IP_2147407,female,35.0,torso,melanoma,malignant,1
+ISIC_7536704,IP_3994607,male,75.0,torso,melanoma,malignant,1
+ISIC_5425721,IP_3454417,male,65.0,torso,melanoma,malignant,1
+ISIC_4163686,IP_1557755,female,45.0,upper extremity,melanoma,malignant,1
+ISIC_1592715,IP_3422736,female,35.0,upper extremity,nevus,benign,0
+ISIC_3895185,IP_4427711,female,45.0,torso,seborrheic keratosis,benign,0
+ISIC_0207268,IP_7735373,male,55.0,torso,melanoma,malignant,1
+ISIC_7676485,IP_9513376,male,35.0,head/neck,unknown,benign,0
+ISIC_3241636,IP_2959285,male,75.0,lower extremity,melanoma,malignant,1
+ISIC_7164076,IP_9616517,female,40.0,upper extremity,unknown,benign,0
+ISIC_7765193,IP_5037503,male,50.0,lower extremity,nevus,benign,0
+ISIC_6099931,IP_0857646,male,55.0,torso,unknown,benign,0
+ISIC_1625064,IP_2669371,female,50.0,upper extremity,nevus,benign,0
+ISIC_8417873,IP_0585473,male,75.0,torso,melanoma,malignant,1
+ISIC_5382691,IP_1611625,male,45.0,torso,nevus,benign,0
+ISIC_7629589,IP_9092661,male,75.0,torso,unknown,benign,0
+ISIC_4756979,IP_9899071,female,35.0,torso,unknown,benign,0
+ISIC_4408559,IP_9042814,male,40.0,torso,melanoma,malignant,1
+ISIC_6933978,IP_8491618,male,45.0,torso,unknown,benign,0
+ISIC_3129363,IP_1859257,male,45.0,upper extremity,unknown,benign,0
+ISIC_8041078,IP_6614604,male,25.0,torso,unknown,benign,0
+ISIC_3067657,IP_6894159,female,75.0,torso,unknown,benign,0
+ISIC_2237868,IP_2442926,female,65.0,torso,unknown,benign,0
+ISIC_0294399,IP_9115076,male,50.0,torso,unknown,benign,0
+ISIC_5341021,IP_9453080,female,60.0,torso,unknown,benign,0
+ISIC_3343729,IP_6049920,female,45.0,torso,unknown,benign,0
+ISIC_6278273,IP_4617831,male,65.0,torso,melanoma,malignant,1
+ISIC_5689730,IP_8839187,male,30.0,torso,nevus,benign,0
+ISIC_5823077,IP_8474574,female,60.0,torso,nevus,benign,0
+ISIC_2103581,IP_8340768,male,60.0,lower extremity,unknown,benign,0
+ISIC_2035134,IP_4252478,male,35.0,torso,unknown,benign,0
+ISIC_3319229,IP_8326844,female,50.0,torso,melanoma,malignant,1
+ISIC_5084682,IP_9583707,male,20.0,torso,unknown,benign,0
+ISIC_8816195,IP_9299257,female,40.0,torso,unknown,benign,0
+ISIC_9601054,IP_2571070,female,45.0,torso,unknown,benign,0
+ISIC_9828846,IP_8210115,male,55.0,head/neck,melanoma,malignant,1
+ISIC_7395166,IP_9435698,female,75.0,torso,unknown,benign,0
+ISIC_2918692,IP_3094561,male,30.0,torso,unknown,benign,0
+ISIC_4765242,IP_9315526,male,75.0,torso,nevus,benign,0
+ISIC_7082703,IP_1246698,female,40.0,torso,unknown,benign,0
+ISIC_6714082,IP_6936664,female,55.0,torso,melanoma,malignant,1
+ISIC_3256087,IP_7404937,male,60.0,torso,unknown,benign,0
+ISIC_8194835,IP_2302748,female,60.0,lower extremity,melanoma,malignant,1
+ISIC_6178088,IP_2669703,female,30.0,torso,unknown,benign,0
+ISIC_3933504,IP_3938557,male,30.0,torso,unknown,benign,0
+ISIC_8892236,IP_2962626,female,35.0,lower extremity,melanoma,malignant,1
+ISIC_2342769,IP_7270568,female,65.0,head/neck,melanoma,malignant,1
+ISIC_7168301,IP_1787329,male,20.0,torso,unknown,benign,0
+ISIC_7265673,IP_4612042,male,50.0,upper extremity,melanoma,malignant,1
+ISIC_2743075,IP_2506795,female,30.0,torso,unknown,benign,0
+ISIC_9547725,IP_7180935,female,35.0,torso,melanoma,malignant,1
+ISIC_5331102,IP_7043505,male,55.0,lower extremity,melanoma,malignant,1
+ISIC_5037784,IP_3324603,female,90.0,lower extremity,melanoma,malignant,1
+ISIC_7603320,IP_0400826,male,45.0,,unknown,benign,0
+ISIC_8428038,IP_5974691,female,35.0,lower extremity,unknown,benign,0
+ISIC_7460887,IP_7180935,female,30.0,torso,melanoma,malignant,1
+ISIC_8289518,IP_3054486,male,70.0,torso,unknown,benign,0
+ISIC_1418788,IP_9163195,female,75.0,lower extremity,unknown,benign,0
+ISIC_0829433,IP_8135032,male,75.0,lower extremity,unknown,benign,0
+ISIC_0984825,IP_4096093,female,60.0,upper extremity,unknown,benign,0
+ISIC_9568868,IP_5691366,female,55.0,upper extremity,nevus,benign,0
+ISIC_0952472,IP_9736783,male,90.0,lower extremity,melanoma,malignant,1
+ISIC_5195381,IP_0934857,female,50.0,upper extremity,unknown,benign,0
+ISIC_4772294,IP_4996313,female,50.0,lower extremity,unknown,benign,0
+ISIC_8485716,IP_1303857,male,35.0,lower extremity,melanoma,malignant,1
+ISIC_7614221,IP_9942136,male,30.0,torso,melanoma,malignant,1
+ISIC_1646694,IP_9544996,female,35.0,torso,unknown,benign,0
+ISIC_3159924,IP_2584339,male,45.0,upper extremity,melanoma,malignant,1
+ISIC_2481044,IP_9373614,female,50.0,torso,melanoma,malignant,1
+ISIC_7130929,IP_0442139,female,60.0,lower extremity,melanoma,malignant,1
+ISIC_2844539,IP_8154616,female,80.0,lower extremity,melanoma,malignant,1
+ISIC_9643132,IP_9989332,female,30.0,upper extremity,unknown,benign,0
+ISIC_9245103,IP_7151331,female,75.0,torso,unknown,benign,0
+ISIC_3524429,IP_5410936,female,65.0,torso,nevus,benign,0
+ISIC_6613150,IP_4387709,male,25.0,torso,melanoma,malignant,1
+ISIC_5354827,IP_5439716,male,65.0,torso,nevus,benign,0
+ISIC_6507412,IP_4544162,female,50.0,torso,unknown,benign,0
+ISIC_3593382,IP_5397868,female,50.0,torso,nevus,benign,0
+ISIC_8739231,IP_4445194,male,60.0,upper extremity,unknown,benign,0
+ISIC_2215371,IP_0719925,male,60.0,torso,unknown,benign,0
+ISIC_4398011,IP_0718832,female,55.0,torso,melanoma,malignant,1
+ISIC_1695805,IP_4234031,female,40.0,torso,unknown,benign,0
+ISIC_8697426,IP_1477087,female,55.0,upper extremity,nevus,benign,0
+ISIC_6509682,IP_8094083,male,45.0,upper extremity,melanoma,malignant,1
+ISIC_1106080,IP_8753181,male,35.0,upper extremity,nevus,benign,0
+ISIC_1375476,IP_9851472,female,35.0,torso,melanoma,malignant,1
+ISIC_1151929,IP_6397153,female,70.0,lower extremity,unknown,benign,0
+ISIC_0323624,IP_3927686,female,35.0,oral/genital,unknown,benign,0
+ISIC_9531527,IP_3603767,female,60.0,head/neck,unknown,benign,0
+ISIC_9025263,IP_2632866,female,55.0,lower extremity,unknown,benign,0
+ISIC_6558624,IP_3620175,female,60.0,head/neck,unknown,benign,0
+ISIC_5850633,IP_8338213,male,50.0,lower extremity,nevus,benign,0
+ISIC_2119925,IP_2214113,female,55.0,torso,unknown,benign,0
+ISIC_2146346,IP_9576478,male,50.0,torso,nevus,benign,0
+ISIC_0924427,IP_9652966,male,65.0,head/neck,melanoma,malignant,1
+ISIC_4674818,IP_4210911,female,30.0,torso,unknown,benign,0
+ISIC_6026244,IP_2501837,male,75.0,lower extremity,unknown,benign,0
+ISIC_1200192,IP_8989787,male,35.0,torso,melanoma,malignant,1
+ISIC_5061329,IP_2669371,female,50.0,lower extremity,nevus,benign,0
+ISIC_7869953,IP_5691366,female,55.0,lower extremity,nevus,benign,0
+ISIC_5908132,IP_0492456,female,35.0,torso,unknown,benign,0
+ISIC_0586053,IP_5867829,male,50.0,upper extremity,unknown,benign,0
+ISIC_6180938,IP_0777867,female,45.0,lower extremity,unknown,benign,0
+ISIC_7636712,IP_8142299,male,55.0,torso,nevus,benign,0
+ISIC_3975143,IP_8759634,female,45.0,lower extremity,unknown,benign,0
+ISIC_1450315,IP_8361815,male,80.0,head/neck,unknown,benign,0
+ISIC_4266570,IP_7442038,male,75.0,head/neck,unknown,benign,0
+ISIC_5451433,IP_1109756,male,70.0,lower extremity,unknown,benign,0
+ISIC_4462821,IP_8683055,male,75.0,lower extremity,nevus,benign,0
+ISIC_8747441,IP_8027787,male,75.0,torso,unknown,benign,0
+ISIC_7782074,IP_3359673,female,50.0,torso,nevus,benign,0
+ISIC_3328736,IP_7590110,female,45.0,torso,unknown,benign,0
+ISIC_2805573,IP_0097257,female,65.0,torso,unknown,benign,0
+ISIC_6564628,IP_0307863,male,45.0,torso,unknown,benign,0
+ISIC_4487036,IP_5691366,female,50.0,head/neck,nevus,benign,0
+ISIC_5709772,IP_1840599,female,65.0,head/neck,unknown,benign,0
+ISIC_1356715,IP_6940325,female,30.0,torso,melanoma,malignant,1
+ISIC_0959562,IP_8592890,female,45.0,torso,unknown,benign,0
+ISIC_3494886,IP_6297463,male,40.0,lower extremity,nevus,benign,0
+ISIC_1770027,IP_6331798,female,25.0,torso,unknown,benign,0
+ISIC_2107578,IP_0521041,male,60.0,lower extremity,nevus,benign,0
+ISIC_8634356,IP_2944135,female,35.0,torso,unknown,benign,0
+ISIC_8107131,IP_9496389,male,40.0,torso,unknown,benign,0
+ISIC_7205745,IP_2548997,female,40.0,torso,melanoma,malignant,1
+ISIC_7202071,IP_0414408,male,50.0,torso,unknown,benign,0
+ISIC_3380325,IP_9835712,,,torso,unknown,benign,0
+ISIC_1168311,IP_9985810,female,45.0,torso,nevus,benign,0
+ISIC_7897925,IP_9424914,male,45.0,upper extremity,melanoma,malignant,1
+ISIC_0502582,IP_9175987,male,65.0,lower extremity,melanoma,malignant,1
+ISIC_2101624,IP_8738175,male,70.0,torso,melanoma,malignant,1
+ISIC_6829008,IP_9635781,female,50.0,lower extremity,melanoma,malignant,1
+ISIC_1403974,IP_9679829,male,30.0,torso,unknown,benign,0
+ISIC_9057878,IP_9355893,male,40.0,upper extremity,unknown,benign,0
+ISIC_6003500,IP_5076578,male,55.0,lower extremity,unknown,benign,0
+ISIC_8206577,IP_7824066,male,65.0,lower extremity,unknown,benign,0
+ISIC_5971915,IP_1135236,male,45.0,torso,nevus,benign,0
+ISIC_8354138,IP_9558959,male,45.0,torso,unknown,benign,0
+ISIC_2447578,IP_9461058,female,50.0,upper extremity,melanoma,malignant,1
+ISIC_0232767,IP_2618037,female,25.0,upper extremity,unknown,benign,0
+ISIC_2589452,IP_4080851,male,45.0,lower extremity,nevus,benign,0
+ISIC_4894602,IP_3089004,female,40.0,head/neck,unknown,benign,0
+ISIC_6966001,IP_6931421,male,30.0,lower extremity,melanoma,malignant,1
+ISIC_4967586,IP_7517320,male,60.0,upper extremity,melanoma,malignant,1
+ISIC_2064934,IP_2139337,male,30.0,torso,unknown,benign,0
+ISIC_7146417,IP_6594273,male,35.0,torso,nevus,benign,0
+ISIC_1728564,IP_3636528,male,60.0,lower extremity,melanoma,malignant,1
+ISIC_0193907,IP_1289915,male,60.0,upper extremity,unknown,benign,0
+ISIC_2607827,IP_7887363,male,60.0,upper extremity,melanoma,malignant,1
+ISIC_5867126,IP_6977878,male,40.0,lower extremity,unknown,benign,0
+ISIC_5434661,IP_9102359,male,35.0,lower extremity,melanoma,malignant,1
+ISIC_9060377,IP_6833889,male,60.0,torso,unknown,benign,0
+ISIC_6688417,IP_0961415,male,45.0,,melanoma,malignant,1
+ISIC_2507761,IP_6814737,female,35.0,lower extremity,unknown,benign,0
+ISIC_0613362,IP_9092661,male,90.0,torso,unknown,benign,0
+ISIC_2206255,IP_6875077,male,50.0,torso,unknown,benign,0
+ISIC_6231450,IP_2963366,male,75.0,torso,nevus,benign,0
+ISIC_1118894,IP_2881084,female,65.0,upper extremity,unknown,benign,0
+ISIC_1020809,IP_9806578,male,70.0,lower extremity,nevus,benign,0
+ISIC_9298545,IP_8224373,female,40.0,upper extremity,unknown,benign,0
+ISIC_9124733,IP_1043359,female,50.0,torso,unknown,benign,0
+ISIC_9548821,IP_6833889,male,55.0,torso,melanoma,malignant,1
+ISIC_7993561,IP_9290101,female,55.0,upper extremity,unknown,benign,0
+ISIC_1948545,IP_2412574,male,70.0,torso,melanoma,malignant,1
+ISIC_5983500,IP_9738076,female,85.0,upper extremity,melanoma,malignant,1
+ISIC_1829654,IP_6814737,female,35.0,lower extremity,unknown,benign,0
+ISIC_2600607,IP_1515878,female,60.0,upper extremity,unknown,benign,0
+ISIC_5338268,IP_1602525,female,25.0,lower extremity,unknown,benign,0
+ISIC_3793709,IP_7229146,female,30.0,lower extremity,unknown,benign,0
+ISIC_2506200,IP_1652699,male,55.0,torso,unknown,benign,0
+ISIC_1072321,IP_8206875,male,70.0,torso,unknown,benign,0
+ISIC_7144795,IP_5326800,female,50.0,lower extremity,unknown,benign,0
+ISIC_4281858,IP_2114130,male,40.0,upper extremity,unknown,benign,0
+ISIC_8985109,IP_9579751,male,45.0,torso,melanoma,malignant,1
+ISIC_2720971,IP_9373614,female,50.0,torso,melanoma,malignant,1
+ISIC_3530337,IP_1165806,male,65.0,upper extremity,nevus,benign,0
+ISIC_2778855,IP_0718832,female,40.0,torso,unknown,benign,0
+ISIC_9280210,IP_1583003,male,45.0,upper extremity,unknown,benign,0
+ISIC_8428562,IP_5889408,female,45.0,torso,unknown,benign,0
+ISIC_6696536,IP_5889408,female,45.0,upper extremity,unknown,benign,0
+ISIC_3244067,IP_2823211,male,50.0,head/neck,melanoma,malignant,1
+ISIC_2871456,IP_3444084,male,40.0,torso,unknown,benign,0
+ISIC_0187812,IP_5711917,female,65.0,lower extremity,nevus,benign,0
+ISIC_3134745,IP_1077703,female,60.0,lower extremity,unknown,benign,0
+ISIC_4362713,IP_9997715,female,75.0,torso,melanoma,malignant,1
+ISIC_7682042,IP_8666570,male,45.0,torso,unknown,benign,0
+ISIC_5548608,IP_8663649,male,45.0,torso,unknown,benign,0
+ISIC_4517738,IP_5181027,male,65.0,palms/soles,melanoma,malignant,1
+ISIC_4367917,IP_4978372,male,60.0,lower extremity,unknown,benign,0
+ISIC_2848654,IP_0963996,female,40.0,lower extremity,unknown,benign,0
+ISIC_7520843,IP_3947094,male,50.0,upper extremity,melanoma,malignant,1
+ISIC_2778113,IP_8171635,male,70.0,upper extremity,seborrheic keratosis,benign,0
+ISIC_0889988,IP_4179834,female,40.0,lower extremity,unknown,benign,0
+ISIC_3993924,IP_7650895,female,70.0,upper extremity,melanoma,malignant,1
+ISIC_7376684,IP_7291657,female,40.0,torso,unknown,benign,0
+ISIC_5507066,IP_5350484,male,30.0,torso,unknown,benign,0
+ISIC_4181595,IP_1613116,female,60.0,torso,unknown,benign,0
+ISIC_8096536,IP_1351218,male,70.0,lower extremity,unknown,benign,0
+ISIC_7724054,IP_1931050,male,55.0,torso,unknown,benign,0
+ISIC_8555610,IP_6215369,male,80.0,lower extremity,unknown,benign,0
+ISIC_3679327,IP_6676823,female,25.0,lower extremity,unknown,benign,0
+ISIC_3343475,IP_4576785,male,80.0,head/neck,melanoma,malignant,1
+ISIC_4396406,IP_9067064,male,45.0,lower extremity,unknown,benign,0
+ISIC_8849240,IP_9995095,male,50.0,lower extremity,nevus,benign,0
+ISIC_6607939,IP_7491908,male,35.0,lower extremity,nevus,benign,0
+ISIC_2281048,IP_5627853,female,35.0,upper extremity,unknown,benign,0
+ISIC_2509046,IP_9486050,male,35.0,,nevus,benign,0
+ISIC_4266533,IP_1525419,female,55.0,lower extremity,melanoma,malignant,1
+ISIC_8306697,IP_9175987,male,65.0,torso,melanoma,malignant,1
+ISIC_2646829,IP_8361815,male,80.0,head/neck,melanoma,malignant,1
+ISIC_9057326,IP_9248372,female,60.0,lower extremity,unknown,benign,0
+ISIC_4377208,IP_8776152,male,75.0,torso,melanoma,malignant,1
+ISIC_8409053,IP_8723313,female,55.0,torso,unknown,benign,0
+ISIC_4562352,IP_9583707,male,20.0,upper extremity,unknown,benign,0
+ISIC_8241422,IP_4687295,female,40.0,upper extremity,unknown,benign,0
+ISIC_8279476,IP_4576977,male,45.0,upper extremity,nevus,benign,0
+ISIC_3270831,IP_3531667,male,60.0,upper extremity,unknown,benign,0
+ISIC_1729223,IP_4772390,male,60.0,torso,melanoma,malignant,1
+ISIC_4742488,IP_8442345,male,35.0,upper extremity,unknown,benign,0
+ISIC_3738751,IP_0274810,male,60.0,torso,melanoma,malignant,1
+ISIC_1850483,IP_5766574,female,50.0,lower extremity,unknown,benign,0
+ISIC_6695831,IP_2506801,female,65.0,torso,melanoma,malignant,1
+ISIC_8124900,IP_3293337,male,50.0,torso,melanoma,malignant,1
+ISIC_6268014,IP_0099096,female,35.0,upper extremity,unknown,benign,0
+ISIC_7327423,IP_4572846,male,65.0,torso,melanoma,malignant,1
+ISIC_1674776,IP_7335423,female,70.0,upper extremity,unknown,benign,0
+ISIC_3817719,IP_8585290,male,75.0,head/neck,melanoma,malignant,1
+ISIC_0191366,IP_9679829,male,30.0,torso,unknown,benign,0
+ISIC_7090070,IP_0306499,male,70.0,lower extremity,unknown,benign,0
+ISIC_6814382,IP_7412558,male,55.0,head/neck,unknown,benign,0
+ISIC_7844761,IP_7111848,male,50.0,torso,unknown,benign,0
+ISIC_5948901,IP_6247924,female,55.0,torso,unknown,benign,0
+ISIC_9232587,IP_9282375,female,65.0,torso,nevus,benign,0
+ISIC_0414816,IP_5528290,male,50.0,torso,unknown,benign,0
+ISIC_7151230,IP_4208266,female,35.0,palms/soles,unknown,benign,0
+ISIC_6971606,IP_9375901,female,25.0,torso,melanoma,malignant,1
+ISIC_5852089,IP_9124285,male,55.0,lower extremity,unknown,benign,0
+ISIC_9682473,IP_9144134,male,10.0,palms/soles,unknown,benign,0
+ISIC_6089318,IP_2430100,female,65.0,torso,melanoma,malignant,1
+ISIC_6032145,IP_6374803,female,80.0,upper extremity,unknown,benign,0
+ISIC_1968421,IP_2026598,male,20.0,lower extremity,melanoma,malignant,1
+ISIC_0250839,IP_6234053,male,75.0,head/neck,melanoma,malignant,1
+ISIC_7662910,IP_2871134,male,60.0,head/neck,melanoma,malignant,1
+ISIC_3384989,IP_1800426,female,40.0,head/neck,seborrheic keratosis,benign,0
+ISIC_9152479,IP_7894646,male,70.0,torso,unknown,benign,0
+ISIC_0576455,IP_9679829,male,30.0,torso,unknown,benign,0
+ISIC_8509577,IP_2412574,male,70.0,torso,melanoma,malignant,1
+ISIC_9580380,IP_8543718,female,45.0,lower extremity,nevus,benign,0
+ISIC_9199429,IP_6514499,male,50.0,head/neck,melanoma,malignant,1
+ISIC_1225078,IP_9186570,male,55.0,lower extremity,nevus,benign,0
+ISIC_3697702,IP_2809878,female,45.0,torso,melanoma,malignant,1
+ISIC_8040100,IP_5392943,male,25.0,torso,unknown,benign,0
+ISIC_9787058,IP_0541183,female,75.0,lower extremity,unknown,benign,0
+ISIC_8068693,IP_5533537,female,45.0,torso,melanoma,malignant,1
+ISIC_1080640,IP_3782995,female,25.0,torso,unknown,benign,0
+ISIC_3301933,IP_5033731,female,55.0,lower extremity,melanoma,malignant,1
+ISIC_3315573,IP_2301815,female,35.0,upper extremity,unknown,benign,0
+ISIC_0639769,IP_2412574,male,65.0,head/neck,melanoma,malignant,1
+ISIC_0778477,IP_2618037,female,25.0,torso,unknown,benign,0
+ISIC_5000359,IP_3970734,male,45.0,torso,unknown,benign,0
+ISIC_0333091,IP_6868151,male,25.0,lower extremity,melanoma,malignant,1
+ISIC_1431236,IP_9290101,female,55.0,torso,unknown,benign,0
+ISIC_7658729,IP_8869881,female,25.0,lower extremity,melanoma,malignant,1
+ISIC_8430165,IP_8293383,female,70.0,torso,lichenoid keratosis,benign,0
+ISIC_7650064,IP_3854976,female,45.0,torso,unknown,benign,0
+ISIC_3819893,IP_9846692,female,35.0,torso,unknown,benign,0
+ISIC_5164045,IP_0859301,female,50.0,lower extremity,unknown,benign,0
+ISIC_9712522,IP_6569383,male,75.0,lower extremity,unknown,benign,0
+ISIC_7710270,IP_6977878,male,35.0,upper extremity,unknown,benign,0
+ISIC_3969411,IP_7600629,male,60.0,torso,melanoma,malignant,1
+ISIC_5983666,IP_3336327,female,65.0,upper extremity,unknown,benign,0
+ISIC_0599605,IP_6130936,male,70.0,upper extremity,melanoma,malignant,1
+ISIC_6561111,IP_9037179,male,70.0,torso,melanoma,malignant,1
+ISIC_2861793,IP_8413345,female,40.0,upper extremity,unknown,benign,0
+ISIC_8837792,IP_6175417,female,40.0,upper extremity,unknown,benign,0
+ISIC_5433575,IP_3169043,male,75.0,torso,unknown,benign,0
+ISIC_9153619,IP_6901441,female,35.0,torso,unknown,benign,0
+ISIC_1646954,IP_5533537,female,55.0,upper extremity,unknown,benign,0
+ISIC_2337907,IP_6397153,female,55.0,upper extremity,melanoma,malignant,1
+ISIC_8786693,IP_0648521,male,60.0,torso,unknown,benign,0
+ISIC_2689912,IP_7584179,male,35.0,torso,unknown,benign,0
+ISIC_1812944,IP_7610036,male,65.0,torso,unknown,benign,0
+ISIC_7616427,IP_2010919,female,50.0,upper extremity,unknown,benign,0
+ISIC_4791461,IP_9029443,female,55.0,lower extremity,nevus,benign,0
+ISIC_5763398,IP_2766521,male,75.0,torso,unknown,benign,0
+ISIC_8563132,IP_1172238,female,50.0,lower extremity,nevus,benign,0
+ISIC_6440050,IP_9849868,male,55.0,upper extremity,unknown,benign,0
+ISIC_6951506,IP_7252102,male,45.0,lower extremity,unknown,benign,0
+ISIC_8138302,IP_8447624,female,50.0,torso,unknown,benign,0
+ISIC_4620425,IP_1517386,male,40.0,torso,unknown,benign,0
+ISIC_6851408,IP_9175987,male,65.0,head/neck,melanoma,malignant,1
+ISIC_2358454,IP_5765893,female,55.0,lower extremity,melanoma,malignant,1
+ISIC_2637608,IP_8687520,male,60.0,upper extremity,melanoma,malignant,1
+ISIC_9441580,IP_9164079,female,45.0,torso,unknown,benign,0
+ISIC_5732201,IP_8142871,female,45.0,torso,melanoma,malignant,1
+ISIC_8379956,IP_8412988,female,70.0,,melanoma,malignant,1
+ISIC_7139484,IP_8723313,female,55.0,upper extremity,unknown,benign,0
+ISIC_8230318,IP_9736783,male,90.0,torso,melanoma,malignant,1
+ISIC_0808108,IP_0718832,female,55.0,torso,unknown,benign,0
+ISIC_8325226,IP_0585473,male,75.0,torso,melanoma,malignant,1
+ISIC_8292532,IP_8555595,female,40.0,torso,unknown,benign,0
+ISIC_1196376,IP_3008149,male,65.0,upper extremity,nevus,benign,0
+ISIC_0715702,IP_1348848,male,60.0,torso,nevus,benign,0
+ISIC_7009765,IP_3739659,female,45.0,torso,unknown,benign,0
+ISIC_4534433,IP_0863870,male,70.0,torso,unknown,benign,0
+ISIC_7872595,IP_1422713,male,75.0,torso,melanoma,malignant,1
+ISIC_8432621,IP_3054890,male,35.0,lower extremity,nevus,benign,0
+ISIC_5369000,IP_8661408,male,70.0,head/neck,melanoma,malignant,1
+ISIC_4760800,IP_8233849,male,55.0,torso,unknown,benign,0
+ISIC_2975580,IP_8841455,male,70.0,head/neck,melanoma,malignant,1
+ISIC_1292799,IP_9711347,male,35.0,torso,unknown,benign,0
+ISIC_0844312,IP_9936643,male,75.0,head/neck,melanoma,malignant,1
+ISIC_7724762,IP_5744544,female,70.0,torso,melanoma,malignant,1
+ISIC_7882053,IP_3689742,male,60.0,torso,unknown,benign,0
+ISIC_1299388,IP_9865971,female,40.0,lower extremity,unknown,benign,0
+ISIC_6512653,IP_7600629,male,65.0,torso,melanoma,malignant,1
+ISIC_5561003,IP_8020102,male,45.0,lower extremity,melanoma,malignant,1
+ISIC_2398526,IP_4204657,female,40.0,torso,unknown,benign,0
+ISIC_0784284,IP_7842431,male,40.0,torso,unknown,benign,0
+ISIC_4510707,IP_9315526,male,70.0,torso,nevus,benign,0
+ISIC_5673518,IP_5552354,male,45.0,upper extremity,melanoma,malignant,1
+ISIC_5581931,IP_2068150,male,85.0,head/neck,melanoma,malignant,1
+ISIC_1554843,IP_4880648,female,40.0,lower extremity,unknown,benign,0
+ISIC_4404772,IP_9746668,female,85.0,lower extremity,melanoma,malignant,1
+ISIC_8010862,IP_7318404,male,50.0,upper extremity,unknown,benign,0
+ISIC_7071570,IP_4745288,male,65.0,torso,unknown,benign,0
+ISIC_4730066,IP_2302748,female,60.0,lower extremity,melanoma,malignant,1
+ISIC_1445277,IP_5208504,female,45.0,torso,unknown,benign,0
+ISIC_0238491,IP_8734172,male,45.0,head/neck,nevus,benign,0
+ISIC_4655338,IP_3860796,female,55.0,lower extremity,nevus,benign,0
+ISIC_2730629,IP_9496389,male,40.0,lower extremity,unknown,benign,0
+ISIC_8152423,IP_7132179,male,40.0,upper extremity,unknown,benign,0
+ISIC_4077768,IP_8590096,male,75.0,lower extremity,unknown,benign,0
+ISIC_1105059,IP_3128221,male,50.0,torso,nevus,benign,0
+ISIC_1255336,IP_7650895,female,65.0,lower extremity,melanoma,malignant,1
+ISIC_9622948,IP_8766487,female,40.0,lower extremity,unknown,benign,0
+ISIC_5617191,IP_0197769,male,65.0,head/neck,unknown,benign,0
+ISIC_5327271,IP_1195596,male,35.0,torso,unknown,benign,0
+ISIC_1045084,IP_9433384,male,50.0,upper extremity,unknown,benign,0
+ISIC_0299504,IP_5328472,male,70.0,palms/soles,unknown,benign,0
+ISIC_5501609,IP_5496892,male,65.0,palms/soles,unknown,benign,0
+ISIC_4792936,IP_2426108,female,50.0,torso,unknown,benign,0
+ISIC_7748311,IP_2457893,male,75.0,upper extremity,melanoma,malignant,1
+ISIC_0833889,IP_6352254,female,65.0,torso,melanoma,malignant,1
+ISIC_7279273,IP_7753447,male,60.0,torso,nevus,benign,0
+ISIC_9286292,IP_9997715,female,75.0,upper extremity,melanoma,malignant,1
+ISIC_0398005,IP_6420568,male,40.0,upper extremity,unknown,benign,0
+ISIC_8571168,IP_4852531,male,55.0,torso,nevus,benign,0
+ISIC_2317042,IP_9013996,female,75.0,head/neck,unknown,benign,0
+ISIC_3359880,IP_9921339,female,55.0,torso,melanoma,malignant,1
+ISIC_7914631,IP_4021847,male,40.0,lower extremity,melanoma,malignant,1
+ISIC_3070178,IP_9154808,male,20.0,torso,unknown,benign,0
+ISIC_3056193,IP_4811352,female,75.0,lower extremity,unknown,benign,0
+ISIC_4523382,IP_6894159,female,60.0,torso,melanoma,malignant,1
+ISIC_1881035,IP_3191079,male,70.0,lower extremity,nevus,benign,0
+ISIC_7832309,IP_9544996,female,35.0,upper extremity,unknown,benign,0
+ISIC_7253401,IP_2193425,female,40.0,upper extremity,melanoma,malignant,1
+ISIC_1231419,IP_5872065,male,50.0,lower extremity,melanoma,malignant,1
+ISIC_6122799,IP_2214113,female,55.0,upper extremity,unknown,benign,0
+ISIC_6704518,IP_9371649,male,65.0,torso,unknown,benign,0
+ISIC_5406576,IP_9853347,male,55.0,head/neck,unknown,benign,0
+ISIC_3203344,IP_5852997,male,60.0,torso,melanoma,malignant,1
+ISIC_7743505,IP_6009973,male,65.0,torso,nevus,benign,0
+ISIC_8009536,IP_0957064,male,65.0,torso,melanoma,malignant,1
+ISIC_2123488,IP_0828404,female,40.0,torso,unknown,benign,0
+ISIC_5320483,IP_0901675,female,70.0,upper extremity,unknown,benign,0
+ISIC_9488846,IP_6931421,male,30.0,lower extremity,nevus,benign,0
+ISIC_6056121,IP_8590096,male,75.0,torso,melanoma,malignant,1
+ISIC_4808298,IP_2189124,male,40.0,torso,unknown,benign,0
+ISIC_1777292,IP_8534235,female,60.0,torso,unknown,benign,0
+ISIC_0274382,IP_7600629,male,65.0,torso,melanoma,malignant,1
+ISIC_3778192,IP_8972853,female,35.0,torso,melanoma,malignant,1
+ISIC_1714905,IP_2006089,female,35.0,torso,unknown,benign,0
+ISIC_1127639,IP_7252102,male,40.0,torso,unknown,benign,0
+ISIC_2790630,IP_7772951,male,45.0,lower extremity,nevus,benign,0
+ISIC_4442900,IP_5076578,male,55.0,lower extremity,unknown,benign,0
+ISIC_4619903,IP_9901906,male,55.0,lower extremity,melanoma,malignant,1
+ISIC_3288311,IP_3751991,female,40.0,torso,unknown,benign,0
+ISIC_7187713,IP_4353359,male,85.0,torso,nevus,benign,0
+ISIC_4713733,IP_2501903,male,45.0,lower extremity,unknown,benign,0
+ISIC_2309744,IP_9056338,male,55.0,torso,melanoma,malignant,1
+ISIC_5388184,IP_4297939,male,80.0,head/neck,melanoma,malignant,1
+ISIC_8575776,IP_5830187,male,45.0,torso,unknown,benign,0
+ISIC_1264950,IP_2214113,female,55.0,upper extremity,unknown,benign,0
+ISIC_0572205,IP_6614604,male,20.0,torso,melanoma,malignant,1
+ISIC_0247330,IP_3232631,female,65.0,lower extremity,melanoma,malignant,1
+ISIC_4543121,IP_5986216,male,35.0,lower extremity,unknown,benign,0
+ISIC_3100541,IP_3434100,female,60.0,,unknown,benign,0
+ISIC_1068686,IP_7412558,male,55.0,torso,melanoma,malignant,1
+ISIC_5642824,IP_6285147,male,75.0,head/neck,melanoma,malignant,1
+ISIC_7021038,IP_8442277,female,50.0,lower extremity,unknown,benign,0
+ISIC_0911264,IP_7587497,male,65.0,lower extremity,melanoma,malignant,1
+ISIC_6854940,IP_8738175,male,70.0,head/neck,unknown,benign,0
+ISIC_5771028,IP_9520195,female,50.0,torso,nevus,benign,0
+ISIC_3956848,IP_6997528,female,35.0,torso,unknown,benign,0
+ISIC_1162337,IP_5537648,male,45.0,palms/soles,melanoma,malignant,1
+ISIC_2252930,IP_2322991,male,65.0,torso,unknown,benign,0
+ISIC_8109605,IP_3636528,male,70.0,upper extremity,unknown,benign,0
+ISIC_3207651,IP_9954107,male,70.0,torso,melanoma,malignant,1
+ISIC_9583969,IP_4281194,female,90.0,torso,melanoma,malignant,1
+ISIC_2667748,IP_2410124,male,10.0,lower extremity,unknown,benign,0
+ISIC_7074321,IP_2320445,female,50.0,torso,melanoma,malignant,1
+ISIC_1740430,IP_6215369,male,80.0,upper extremity,lichenoid keratosis,benign,0
+ISIC_8458149,IP_3240837,male,50.0,lower extremity,unknown,benign,0
+ISIC_3528444,IP_8247808,female,35.0,lower extremity,unknown,benign,0
+ISIC_3808474,IP_3750016,male,90.0,torso,unknown,benign,0
+ISIC_1876943,IP_0718832,female,50.0,torso,unknown,benign,0
+ISIC_3436033,IP_2390008,male,60.0,lower extremity,melanoma,malignant,1
+ISIC_8278742,IP_3943416,male,40.0,torso,nevus,benign,0
+ISIC_2157630,IP_5389392,male,55.0,head/neck,unknown,benign,0
+ISIC_6272249,IP_8869881,female,25.0,torso,unknown,benign,0
+ISIC_8252406,IP_3750016,male,85.0,palms/soles,melanoma,malignant,1
+ISIC_5798331,IP_4988871,female,35.0,torso,unknown,benign,0
+ISIC_9978107,IP_2860540,male,65.0,lower extremity,melanoma,malignant,1
+ISIC_1597566,IP_4520332,male,30.0,torso,unknown,benign,0
+ISIC_2221217,IP_2986217,male,75.0,torso,melanoma,malignant,1
+ISIC_6574497,IP_5365464,female,70.0,upper extremity,unknown,benign,0
+ISIC_9308886,IP_4409916,female,40.0,torso,unknown,benign,0
+ISIC_4600505,IP_9679829,male,30.0,torso,unknown,benign,0
+ISIC_9086288,IP_1652699,male,55.0,torso,unknown,benign,0
+ISIC_2874203,IP_3190947,female,55.0,upper extremity,unknown,benign,0
+ISIC_2739449,IP_2101945,male,50.0,lower extremity,melanoma,malignant,1
+ISIC_8397285,IP_3729342,male,50.0,torso,melanoma,malignant,1
+ISIC_6269166,IP_0059113,female,75.0,upper extremity,melanoma,malignant,1
+ISIC_5783861,IP_9718058,male,50.0,torso,unknown,benign,0
+ISIC_3650938,IP_7271570,female,40.0,upper extremity,unknown,benign,0
+ISIC_0215112,IP_0414408,male,50.0,torso,unknown,benign,0
+ISIC_5797062,IP_9619666,male,70.0,lower extremity,melanoma,malignant,1
+ISIC_9300579,IP_7147862,male,40.0,lower extremity,nevus,benign,0
+ISIC_2077116,IP_8235556,female,35.0,torso,melanoma,malignant,1
+ISIC_1684127,IP_5110222,male,30.0,torso,melanoma,malignant,1
+ISIC_7190243,IP_1480975,female,45.0,torso,melanoma,malignant,1
+ISIC_1497180,IP_8171635,male,70.0,torso,unknown,benign,0
+ISIC_5100319,IP_1582457,male,50.0,lower extremity,unknown,benign,0
+ISIC_2609984,IP_2586665,female,45.0,torso,melanoma,malignant,1
+ISIC_9305113,IP_3531652,male,40.0,torso,unknown,benign,0
+ISIC_3821242,IP_1981261,female,65.0,head/neck,melanoma,malignant,1
+ISIC_1557225,IP_6269870,female,55.0,lower extremity,unknown,benign,0
+ISIC_9255094,IP_6130936,male,70.0,torso,unknown,benign,0
+ISIC_3733653,IP_6362160,male,75.0,head/neck,melanoma,malignant,1
+ISIC_3206697,IP_7207550,male,55.0,torso,unknown,benign,0
+ISIC_1785627,IP_0170821,female,40.0,upper extremity,melanoma,malignant,1
+ISIC_8370773,IP_7932703,male,70.0,upper extremity,unknown,benign,0
+ISIC_8090739,IP_1165806,male,65.0,torso,nevus,benign,0
+ISIC_1177153,IP_0863870,male,65.0,torso,melanoma,malignant,1
+ISIC_6627654,IP_9051557,female,50.0,upper extremity,unknown,benign,0
+ISIC_4253563,IP_2358028,male,50.0,upper extremity,nevus,benign,0
+ISIC_5174617,IP_2669703,female,30.0,upper extremity,unknown,benign,0
+ISIC_9800424,IP_0981335,male,50.0,torso,unknown,benign,0
+ISIC_6392461,IP_9153938,male,70.0,upper extremity,melanoma,malignant,1
+ISIC_7025487,IP_1890779,female,50.0,torso,unknown,benign,0
+ISIC_1462872,IP_8152038,male,55.0,lower extremity,nevus,benign,0
+ISIC_0637539,IP_0583343,male,65.0,torso,unknown,benign,0
+ISIC_0588103,IP_3780490,female,40.0,lower extremity,nevus,benign,0
+ISIC_4793861,IP_5496892,male,60.0,torso,unknown,benign,0
+ISIC_7098141,IP_9453080,female,60.0,torso,melanoma,malignant,1
+ISIC_1143655,IP_1552035,female,45.0,lower extremity,nevus,benign,0
+ISIC_1336905,IP_3365162,male,65.0,torso,unknown,benign,0
+ISIC_5679982,IP_1533126,male,55.0,torso,nevus,benign,0
+ISIC_2412113,IP_2025600,female,45.0,upper extremity,melanoma,malignant,1
+ISIC_1781273,IP_9583707,male,20.0,torso,unknown,benign,0
+ISIC_3548927,IP_2430100,female,65.0,upper extremity,unknown,benign,0
+ISIC_2072760,IP_8437394,female,35.0,torso,unknown,benign,0
+ISIC_3975294,IP_7497232,male,25.0,torso,unknown,benign,0
+ISIC_8065721,IP_2976930,female,30.0,lower extremity,nevus,benign,0
+ISIC_0227038,IP_3557056,male,80.0,torso,nevus,benign,0
+ISIC_7233368,IP_4387709,male,25.0,torso,melanoma,malignant,1
+ISIC_5747709,IP_2214113,female,55.0,upper extremity,unknown,benign,0
+ISIC_1287370,IP_2845131,male,55.0,lower extremity,nevus,benign,0
+ISIC_3922238,IP_8356528,female,45.0,torso,nevus,benign,0
+ISIC_2126035,IP_4194721,male,50.0,lower extremity,nevus,benign,0
+ISIC_2707664,IP_2944135,female,35.0,upper extremity,unknown,benign,0
+ISIC_2272218,IP_6610197,male,65.0,torso,melanoma,malignant,1
+ISIC_9884312,IP_3983475,male,70.0,torso,nevus,benign,0
+ISIC_6137737,IP_6780155,male,55.0,torso,unknown,benign,0
+ISIC_3492490,IP_7368120,female,40.0,upper extremity,unknown,benign,0
+ISIC_1513596,IP_4639224,male,40.0,torso,unknown,benign,0
+ISIC_6710875,IP_4811352,female,70.0,upper extremity,unknown,benign,0
+ISIC_9312164,IP_4263066,female,65.0,torso,melanoma,malignant,1
+ISIC_7851254,IP_6353955,male,55.0,lower extremity,unknown,benign,0
+ISIC_4351868,IP_4879325,female,55.0,upper extremity,unknown,benign,0
+ISIC_0946787,IP_9738076,female,90.0,lower extremity,melanoma,malignant,1
+ISIC_8381531,IP_6130936,male,70.0,upper extremity,melanoma,malignant,1
+ISIC_1566428,IP_0867894,female,60.0,torso,melanoma,malignant,1
+ISIC_4662418,IP_7599389,male,65.0,torso,nevus,benign,0
+ISIC_5900283,IP_6538458,female,50.0,torso,unknown,benign,0
+ISIC_8545201,IP_5528290,male,50.0,torso,unknown,benign,0
+ISIC_1373747,IP_7700121,male,40.0,upper extremity,unknown,benign,0
+ISIC_1768733,IP_5104615,male,45.0,lower extremity,unknown,benign,0
+ISIC_2822718,IP_0634841,male,50.0,upper extremity,melanoma,malignant,1
+ISIC_6176182,IP_1611625,male,40.0,torso,nevus,benign,0
+ISIC_3652583,IP_7250026,female,45.0,lower extremity,unknown,benign,0
+ISIC_2990722,IP_8224373,female,40.0,palms/soles,unknown,benign,0
+ISIC_3763248,IP_7748972,male,45.0,head/neck,unknown,benign,0
+ISIC_5825647,IP_2455242,female,55.0,upper extremity,unknown,benign,0
+ISIC_9626843,IP_7113209,male,35.0,lower extremity,melanoma,malignant,1
+ISIC_6672519,IP_0787478,male,65.0,lower extremity,unknown,benign,0
+ISIC_7626256,IP_7666205,male,65.0,torso,melanoma,malignant,1
+ISIC_2544309,IP_0634841,male,55.0,upper extremity,unknown,benign,0
+ISIC_2974214,IP_5394240,male,45.0,upper extremity,melanoma,malignant,1
+ISIC_3603704,IP_3240837,male,50.0,lower extremity,unknown,benign,0
+ISIC_4938376,IP_6599517,female,20.0,head/neck,unknown,benign,0
+ISIC_0662000,IP_2947490,male,40.0,torso,melanoma,malignant,1
+ISIC_9926111,IP_3255507,male,55.0,lower extremity,nevus,benign,0
+ISIC_4936662,IP_0777867,female,45.0,upper extremity,melanoma,malignant,1
+ISIC_8654312,IP_8869881,female,25.0,torso,unknown,benign,0
+ISIC_3144222,IP_4615697,male,80.0,,melanoma,malignant,1
+ISIC_6770028,IP_8663649,male,45.0,lower extremity,unknown,benign,0
+ISIC_5428274,IP_1981261,female,65.0,head/neck,unknown,benign,0
+ISIC_5462221,IP_2322991,male,50.0,torso,unknown,benign,0
+ISIC_9967383,IP_7887363,male,60.0,upper extremity,melanoma,malignant,1
+ISIC_1170910,IP_1559941,male,55.0,torso,unknown,benign,0
+ISIC_5343231,IP_1515878,female,65.0,head/neck,melanoma,malignant,1
+ISIC_6724069,IP_7770500,male,60.0,torso,unknown,benign,0
+ISIC_0280912,IP_5831170,male,70.0,torso,melanoma,malignant,1
+ISIC_3590167,IP_5474292,male,40.0,upper extremity,melanoma,malignant,1
+ISIC_9955255,IP_8951606,male,65.0,torso,unknown,benign,0
+ISIC_0553565,IP_3490992,male,60.0,torso,unknown,benign,0
+ISIC_4238222,IP_0921705,male,50.0,torso,unknown,benign,0
+ISIC_2636672,IP_6331798,female,25.0,torso,unknown,benign,0
+ISIC_5666345,IP_6008814,female,90.0,lower extremity,unknown,benign,0
+ISIC_0624498,IP_9997715,female,80.0,torso,melanoma,malignant,1
+ISIC_8246244,IP_7691333,female,30.0,torso,nevus,benign,0
+ISIC_5806831,IP_8793264,female,65.0,lower extremity,unknown,benign,0
+ISIC_1398480,IP_4366959,female,35.0,upper extremity,unknown,benign,0
+ISIC_8859274,IP_4615697,male,80.0,,melanoma,malignant,1
+ISIC_4874581,IP_8154616,female,80.0,lower extremity,melanoma,malignant,1
+ISIC_2244742,IP_8094083,male,45.0,torso,nevus,benign,0
+ISIC_8177108,IP_8329777,female,35.0,upper extremity,nevus,benign,0
+ISIC_9403390,IP_5528290,male,50.0,torso,unknown,benign,0
+ISIC_3561065,IP_1495267,female,75.0,upper extremity,melanoma,malignant,1
+ISIC_4933332,IP_5027399,male,40.0,lower extremity,unknown,benign,0
+ISIC_3508258,IP_6021072,female,65.0,torso,unknown,benign,0
+ISIC_8635849,IP_1866634,female,55.0,lower extremity,unknown,benign,0
+ISIC_6450034,IP_2412574,male,70.0,torso,melanoma,malignant,1
+ISIC_6879930,IP_5167473,female,60.0,upper extremity,unknown,benign,0
+ISIC_5259313,IP_1916588,male,55.0,torso,nevus,benign,0
+ISIC_9366185,IP_4387709,male,35.0,lower extremity,unknown,benign,0
+ISIC_5006135,IP_1179846,male,60.0,head/neck,unknown,benign,0
+ISIC_5692863,IP_7770083,female,45.0,,unknown,benign,0
+ISIC_5360456,IP_0307863,male,45.0,upper extremity,unknown,benign,0
+ISIC_6302981,IP_2177417,male,45.0,torso,unknown,benign,0
+ISIC_0758283,IP_2724119,female,45.0,torso,unknown,benign,0
+ISIC_2406492,IP_5076578,male,45.0,lower extremity,melanoma,malignant,1
+ISIC_8124436,IP_2064870,female,35.0,torso,unknown,benign,0
+ISIC_9643846,IP_4356379,female,40.0,torso,unknown,benign,0
+ISIC_9164054,IP_1633296,male,75.0,torso,melanoma,malignant,1
+ISIC_0773193,IP_9558959,male,45.0,torso,unknown,benign,0
+ISIC_9125808,IP_8447624,female,50.0,lower extremity,unknown,benign,0
+ISIC_7050200,IP_0243839,male,50.0,torso,nevus,benign,0
+ISIC_2320481,IP_9205637,male,65.0,torso,melanoma,malignant,1
+ISIC_9162894,IP_9051557,female,50.0,upper extremity,unknown,benign,0
+ISIC_2870556,IP_3370847,male,40.0,torso,unknown,benign,0
+ISIC_7075474,IP_8592890,female,45.0,torso,melanoma,malignant,1
+ISIC_7600232,IP_7291657,female,40.0,torso,unknown,benign,0
+ISIC_0351666,IP_1665515,male,80.0,head/neck,melanoma,malignant,1
+ISIC_4270126,IP_9756394,male,55.0,torso,nevus,benign,0
+ISIC_5164059,IP_2606884,female,45.0,upper extremity,unknown,benign,0
+ISIC_0922251,IP_2661172,female,45.0,torso,unknown,benign,0
+ISIC_5091712,IP_6977878,male,35.0,lower extremity,unknown,benign,0
+ISIC_9958613,IP_2040538,male,55.0,upper extremity,unknown,benign,0
+ISIC_0682366,IP_6323321,male,30.0,lower extremity,nevus,benign,0
+ISIC_0948240,IP_6540095,male,60.0,head/neck,unknown,benign,0
+ISIC_1474461,IP_9921339,female,55.0,torso,melanoma,malignant,1
+ISIC_8072117,IP_7460121,female,55.0,torso,unknown,benign,0
+ISIC_6023882,IP_6017204,female,35.0,lower extremity,unknown,benign,0
+ISIC_4611145,IP_3785646,female,30.0,torso,unknown,benign,0
+ISIC_9649398,IP_5365464,female,70.0,upper extremity,unknown,benign,0
+ISIC_9367522,IP_8915476,female,55.0,lower extremity,melanoma,malignant,1
+ISIC_6371078,IP_0400826,male,45.0,,unknown,benign,0
+ISIC_6961503,IP_9181133,male,65.0,torso,melanoma,malignant,1
+ISIC_9052500,IP_7060150,male,85.0,torso,melanoma,malignant,1
+ISIC_2577938,IP_0400826,male,45.0,,unknown,benign,0
+ISIC_5365617,IP_4996313,female,50.0,torso,melanoma,malignant,1
+ISIC_7145788,IP_6601134,female,55.0,upper extremity,unknown,benign,0
+ISIC_0687788,IP_9453080,female,55.0,torso,unknown,benign,0
+ISIC_2306349,IP_9092661,male,80.0,head/neck,melanoma,malignant,1
+ISIC_4299055,IP_2143646,male,70.0,torso,unknown,benign,0
+ISIC_2924968,IP_6949859,male,50.0,torso,nevus,benign,0
+ISIC_5945155,IP_3458395,female,40.0,torso,nevus,benign,0
+ISIC_6847618,IP_3751440,female,50.0,torso,nevus,benign,0
+ISIC_3640050,IP_6459335,male,60.0,torso,unknown,benign,0
+ISIC_0212729,IP_1010643,male,75.0,torso,unknown,benign,0
+ISIC_2935682,IP_2596575,female,55.0,upper extremity,unknown,benign,0
+ISIC_6258744,IP_3531667,male,55.0,upper extremity,unknown,benign,0
+ISIC_6535558,IP_4116267,female,65.0,torso,melanoma,malignant,1
+ISIC_7370624,IP_1587853,female,70.0,upper extremity,unknown,benign,0
+ISIC_2565206,IP_0957064,male,65.0,upper extremity,melanoma,malignant,1
+ISIC_7195168,IP_5901901,male,55.0,upper extremity,unknown,benign,0
+ISIC_7800750,IP_1545708,female,80.0,upper extremity,melanoma,malignant,1
+ISIC_1934097,IP_3240837,male,50.0,torso,unknown,benign,0
+ISIC_5084113,IP_9418573,male,60.0,,melanoma,malignant,1
+ISIC_2809103,IP_0989858,female,30.0,torso,unknown,benign,0
+ISIC_1801687,IP_5339938,female,80.0,lower extremity,unknown,benign,0
+ISIC_4581692,IP_8715388,female,50.0,torso,unknown,benign,0
+ISIC_0682543,IP_3897989,female,40.0,torso,unknown,benign,0
+ISIC_7273849,IP_6977878,male,45.0,lower extremity,unknown,benign,0
+ISIC_3023646,IP_6658881,male,80.0,head/neck,melanoma,malignant,1
+ISIC_2461602,IP_7151331,female,75.0,upper extremity,unknown,benign,0
+ISIC_9955163,IP_7507212,male,55.0,upper extremity,melanoma,malignant,1
+ISIC_1339720,IP_8678278,male,25.0,torso,unknown,benign,0
+ISIC_6022973,IP_7743248,female,30.0,torso,nevus,benign,0
+ISIC_5867911,IP_7412558,male,55.0,upper extremity,melanoma,malignant,1
+ISIC_2382045,IP_5496892,male,65.0,upper extremity,unknown,benign,0
+ISIC_1844585,IP_6215369,male,80.0,upper extremity,unknown,benign,0
+ISIC_2292207,IP_2666042,male,50.0,torso,unknown,benign,0
+ISIC_0595676,IP_6982571,male,25.0,torso,unknown,benign,0
+ISIC_6211801,IP_0036322,male,65.0,torso,nevus,benign,0
+ISIC_7169788,IP_2962626,female,35.0,torso,unknown,benign,0
+ISIC_6398669,IP_8738175,male,70.0,torso,melanoma,malignant,1
+ISIC_9892275,IP_7718399,female,35.0,head/neck,nevus,benign,0
+ISIC_5086349,IP_7946279,female,80.0,head/neck,melanoma,malignant,1
+ISIC_3143604,IP_3048629,male,55.0,torso,unknown,benign,0
+ISIC_6371959,IP_0699776,male,80.0,torso,nevus,benign,0
+ISIC_9909792,IP_1517386,male,40.0,torso,unknown,benign,0
+ISIC_9509757,IP_5336201,male,80.0,head/neck,melanoma,malignant,1
+ISIC_3519939,IP_7743081,female,50.0,torso,nevus,benign,0
+ISIC_7346224,IP_2214113,female,55.0,upper extremity,unknown,benign,0
+ISIC_3743556,IP_6526534,male,50.0,lower extremity,unknown,benign,0
+ISIC_7079349,IP_6215369,male,80.0,torso,melanoma,malignant,1
+ISIC_4105234,IP_0050531,male,65.0,torso,unknown,benign,0
+ISIC_5388493,IP_7817315,female,65.0,torso,unknown,benign,0
+ISIC_7229814,IP_6346671,male,25.0,torso,unknown,benign,0
+ISIC_1618302,IP_1994743,male,50.0,torso,nevus,benign,0
+ISIC_6125652,IP_9806578,male,70.0,head/neck,melanoma,malignant,1
+ISIC_0565251,IP_6219396,female,65.0,torso,unknown,benign,0
+ISIC_7181296,IP_0775515,male,50.0,torso,melanoma,malignant,1
+ISIC_1896477,IP_4522475,male,25.0,torso,nevus,benign,0
+ISIC_7788318,IP_7111848,male,50.0,lower extremity,melanoma,malignant,1
+ISIC_0773907,IP_9583707,male,20.0,torso,unknown,benign,0
+ISIC_5757336,IP_4669427,female,40.0,upper extremity,unknown,benign,0
+ISIC_1652238,IP_3678398,male,60.0,torso,unknown,benign,0
+ISIC_1654342,IP_8236928,female,65.0,lower extremity,melanoma,malignant,1
+ISIC_5415950,IP_8576640,female,50.0,lower extremity,unknown,benign,0
+ISIC_7293518,IP_5548623,male,65.0,lower extremity,melanoma,malignant,1
+ISIC_7319356,IP_1559100,male,65.0,torso,nevus,benign,0
+ISIC_1569119,IP_6120178,male,65.0,torso,melanoma,malignant,1
+ISIC_2343061,IP_9218934,male,70.0,head/neck,unknown,benign,0
+ISIC_4653503,IP_8313778,male,50.0,torso,melanoma,malignant,1
+ISIC_9870885,IP_3298186,female,80.0,lower extremity,melanoma,malignant,1
+ISIC_3310600,IP_8385941,female,50.0,torso,unknown,benign,0
+ISIC_1382763,IP_1236935,male,55.0,torso,nevus,benign,0
+ISIC_9899644,IP_6506834,male,40.0,upper extremity,unknown,benign,0
+ISIC_0356995,IP_1058691,female,45.0,lower extremity,unknown,benign,0
+ISIC_6581411,IP_8687520,male,60.0,torso,melanoma,malignant,1
+ISIC_6460791,IP_3729287,male,60.0,upper extremity,nevus,benign,0
+ISIC_8414609,IP_7066637,male,25.0,torso,melanoma,malignant,1
+ISIC_6982386,IP_9438247,female,65.0,torso,melanoma,malignant,1
+ISIC_4980656,IP_9037179,male,70.0,upper extremity,melanoma,malignant,1
+ISIC_3134589,IP_6294394,female,55.0,upper extremity,unknown,benign,0
+ISIC_3475660,IP_1422713,male,75.0,torso,melanoma,malignant,1
+ISIC_1178491,IP_3575311,female,55.0,torso,nevus,benign,0
+ISIC_5021861,IP_0718832,female,45.0,upper extremity,melanoma,malignant,1
+ISIC_1372318,IP_8766487,female,40.0,lower extremity,unknown,benign,0
+ISIC_5247560,IP_4576785,male,75.0,torso,melanoma,malignant,1
+ISIC_9075335,IP_8069409,male,30.0,lower extremity,unknown,benign,0
+ISIC_1135340,IP_3621895,female,50.0,lower extremity,nevus,benign,0
+ISIC_6305230,IP_5945442,female,35.0,lower extremity,unknown,benign,0
+ISIC_0533986,IP_1355716,female,40.0,lower extremity,unknown,benign,0
+ISIC_3915890,IP_1665515,male,80.0,upper extremity,melanoma,malignant,1
+ISIC_0567142,IP_8001428,female,40.0,torso,unknown,benign,0
+ISIC_2539861,IP_2989764,female,75.0,torso,unknown,benign,0
+ISIC_4493499,IP_4150634,male,50.0,palms/soles,unknown,benign,0
+ISIC_7128674,IP_1246698,female,40.0,torso,unknown,benign,0
+ISIC_3550844,IP_0637703,female,30.0,lower extremity,unknown,benign,0
+ISIC_4776213,IP_7147862,male,40.0,torso,nevus,benign,0
+ISIC_1234310,IP_8989787,male,35.0,torso,unknown,benign,0
+ISIC_4327535,IP_2005898,female,70.0,upper extremity,unknown,benign,0
+ISIC_6767569,IP_7665112,male,70.0,head/neck,melanoma,malignant,1
+ISIC_0204994,IP_5549010,female,30.0,,nevus,benign,0
+ISIC_8175453,IP_4218429,female,30.0,torso,melanoma,malignant,1
+ISIC_1883160,IP_2444029,male,15.0,torso,unknown,benign,0
+ISIC_3592856,IP_8806573,female,60.0,head/neck,unknown,benign,0
+ISIC_6496370,IP_2577172,female,60.0,upper extremity,melanoma,malignant,1
+ISIC_5500067,IP_1716665,male,35.0,torso,unknown,benign,0
+ISIC_4960784,IP_9663529,female,75.0,upper extremity,melanoma,malignant,1
+ISIC_7410175,IP_6008814,female,90.0,lower extremity,melanoma,malignant,1
+ISIC_8029613,IP_0787478,male,70.0,lower extremity,unknown,benign,0
+ISIC_8293201,IP_9616517,female,40.0,torso,unknown,benign,0
+ISIC_2125450,IP_0986794,male,40.0,palms/soles,unknown,benign,0
+ISIC_9542430,IP_7447953,male,55.0,torso,unknown,benign,0
+ISIC_6541615,IP_9115076,male,50.0,torso,melanoma,malignant,1
+ISIC_0462956,IP_9756233,male,60.0,torso,nevus,benign,0
+ISIC_2910576,IP_6323321,male,35.0,torso,nevus,benign,0
+ISIC_1171646,IP_9679829,male,30.0,lower extremity,unknown,benign,0
+ISIC_2837581,IP_4281194,female,90.0,head/neck,melanoma,malignant,1
+ISIC_4650236,IP_9001826,female,35.0,torso,unknown,benign,0
+ISIC_5694698,IP_3200260,female,30.0,torso,unknown,benign,0
+ISIC_8222181,IP_9583707,male,20.0,torso,unknown,benign,0
+ISIC_8942401,IP_2010919,female,50.0,lower extremity,unknown,benign,0
+ISIC_5667461,IP_1525419,female,55.0,lower extremity,melanoma,malignant,1
+ISIC_2461930,IP_4842370,female,45.0,torso,unknown,benign,0
+ISIC_7188330,IP_6275614,female,50.0,upper extremity,unknown,benign,0
+ISIC_8728527,IP_9849868,male,55.0,torso,unknown,benign,0
+ISIC_9824129,IP_0687884,male,65.0,upper extremity,unknown,benign,0
+ISIC_4136391,IP_0306499,male,70.0,torso,unknown,benign,0
+ISIC_9286929,IP_7997841,male,45.0,upper extremity,unknown,benign,0
+ISIC_8157654,IP_9037179,male,70.0,torso,melanoma,malignant,1
+ISIC_4765912,IP_2152204,female,50.0,upper extremity,unknown,benign,0
+ISIC_3920299,IP_7100012,female,75.0,torso,unknown,benign,0
+ISIC_0779920,IP_9663529,female,75.0,upper extremity,melanoma,malignant,1
+ISIC_9596721,IP_0725027,male,60.0,torso,melanoma,malignant,1
+ISIC_2700320,IP_0358262,male,55.0,torso,melanoma,malignant,1
+ISIC_1179160,IP_8442345,male,35.0,torso,unknown,benign,0
+ISIC_9616986,IP_4014685,female,65.0,torso,unknown,benign,0
+ISIC_3534791,IP_9995095,male,50.0,lower extremity,nevus,benign,0
+ISIC_0953317,IP_2278509,male,65.0,torso,melanoma,malignant,1
+ISIC_3249936,IP_2752722,male,30.0,palms/soles,unknown,benign,0
+ISIC_2542479,IP_5104615,male,45.0,torso,unknown,benign,0
+ISIC_2071966,IP_8154616,female,80.0,lower extremity,melanoma,malignant,1
+ISIC_4916704,IP_5609476,male,70.0,head/neck,melanoma,malignant,1
+ISIC_7184881,IP_3054890,male,30.0,lower extremity,nevus,benign,0
+ISIC_4317478,IP_7946279,female,75.0,upper extremity,lentigo NOS,benign,0
+ISIC_8118968,IP_7491908,male,35.0,torso,unknown,benign,0
+ISIC_8483799,IP_5037503,male,50.0,torso,nevus,benign,0
+ISIC_2525084,IP_6614604,male,25.0,upper extremity,melanoma,malignant,1
+ISIC_4474352,IP_9147454,female,55.0,lower extremity,unknown,benign,0
+ISIC_0905652,IP_4525077,female,65.0,torso,unknown,benign,0
+ISIC_3918134,IP_7770500,male,60.0,upper extremity,unknown,benign,0
+ISIC_7785723,IP_8447624,female,50.0,lower extremity,melanoma,malignant,1
+ISIC_0589744,IP_8988837,male,45.0,head/neck,unknown,benign,0
+ISIC_8621568,IP_3780641,female,65.0,lower extremity,melanoma,malignant,1
+ISIC_0560916,IP_0400826,male,45.0,,unknown,benign,0
+ISIC_4157049,IP_5870445,male,50.0,lower extremity,nevus,benign,0
+ISIC_8106899,IP_5609476,male,70.0,torso,melanoma,malignant,1
+ISIC_1417643,IP_2040538,male,55.0,upper extremity,unknown,benign,0
+ISIC_8096541,IP_9906695,female,50.0,torso,nevus,benign,0
+ISIC_8545949,IP_3970734,male,45.0,lower extremity,melanoma,malignant,1
+ISIC_3998579,IP_1730314,male,35.0,torso,unknown,benign,0
+ISIC_9863642,IP_2172761,female,35.0,head/neck,melanoma,malignant,1
+ISIC_3176752,IP_0423032,male,45.0,torso,nevus,benign,0
+ISIC_5756962,IP_5205991,,,head/neck,unknown,benign,0
+ISIC_3412637,IP_9564988,female,55.0,lower extremity,nevus,benign,0
+ISIC_2256519,IP_7132551,male,55.0,upper extremity,unknown,benign,0
+ISIC_3684488,IP_7375528,female,55.0,,melanoma,malignant,1
+ISIC_0711790,IP_5906964,female,65.0,lower extremity,unknown,benign,0
+ISIC_1975042,IP_3917378,female,50.0,head/neck,melanoma,malignant,1
+ISIC_0799347,IP_7700121,male,40.0,upper extremity,unknown,benign,0
+ISIC_5613297,IP_1310148,male,75.0,torso,nevus,benign,0
